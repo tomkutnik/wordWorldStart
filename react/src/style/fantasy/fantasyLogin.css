@@ -1,0 +1,25 @@
+.fantasyLogin{
+    display: block;
+    margin-top: 3rem;
+    margin-left: 14rem;
+    width: 48rem;
+    text-align: right;
+}
+
+@media screen and (max-width: 62.5rem ) {
+    .fantasyLogin{
+        display: block;
+        margin: auto;
+        width: 16rem;
+        text-align: center;
+    }
+}
+
+
+@media screen and (max-width: 62.5rem ) {
+    .fantasyLoginForm{
+        margin-bottom: 1rem;
+    }
+}
+
+

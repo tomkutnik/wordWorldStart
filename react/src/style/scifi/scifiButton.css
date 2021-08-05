@@ -1,0 +1,40 @@
+.scifi__btn{
+    width: 10rem;
+    height: 2rem;
+    border-radius: 0;
+    background: rgba(255, 255, 255, 0.5);
+    border: 0;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.3);
+    border-top: 2px solid rgba(255, 255, 255, 0.7);
+    border-radius: 1rem;
+    color: rgb(255, 255, 255);
+    font-family: 'Patrick Hand', cursive;
+    cursor: pointer;
+    transition: 300ms;
+}
+
+.scifi__btn:hover{
+    transform: scale(1.05);
+    filter: brightness(140%);
+    transition: 300ms;
+}
+
+.scifi__btn-short{
+    width: 5rem;
+    height: 2rem;
+}
+
+
+.scifi__btn-big{
+    height: 5rem;
+}
+
+.scifi__btn-exit{
+    height: 2rem;
+    width: 2rem;
+    border-radius: 2rem;
+    position: absolute;
+    top: -1rem;
+    right: -1rem;
+
+}

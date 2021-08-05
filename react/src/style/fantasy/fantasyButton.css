@@ -1,0 +1,37 @@
+.fantasy__btn{
+    width: 10rem;
+    height: 1.5rem;
+    border-radius: 0;
+    background: rgb(54, 14, 14);
+    border: 2px solid rgb(177, 138, 80);
+    color: rgb(177, 138, 80);
+    font-family: 'MedievalSharp', cursive;
+    cursor: pointer;
+    transition: 300ms;
+}
+
+.fantasy__btn:hover{
+    transform: scale(1.05);
+    filter: brightness(140%);
+    transition: 300ms;
+}
+
+.fantasy__btn-short{
+    width: 5rem;
+    height: 2rem;
+}
+
+
+.fantasy__btn-big{
+    height: 5rem;
+}
+
+.fantasy__btn-exit{
+    height: 2rem;
+    width: 2rem;
+    border-radius: 2rem;
+    position: absolute;
+    top: -1rem;
+    right: -1rem;
+
+}

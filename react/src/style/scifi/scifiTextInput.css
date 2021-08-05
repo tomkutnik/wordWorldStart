@@ -1,0 +1,43 @@
+.scifi__textInput{
+    width: 12rem;
+    margin: 0.5rem auto 1rem auto;
+    padding: 0 1rem;
+    height: 2rem;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.3);
+    color: rgb(255, 255, 255);
+    border-radius: 1rem;
+    border: 0;
+    border-top: 2px solid rgba(0, 0, 0, 0.3);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.7);
+    display: block;
+
+}
+
+@media screen and (max-width: 62.5rem ) {
+
+    .scifi__textInput{
+        display: block;
+    }
+    
+}
+
+.scifi__textInput:focus{
+    filter: brightness(130%);
+    outline: 0;
+}
+
+.scifi__textInput-invalid{
+    -webkit-box-shadow: 0px 0px 16px 10px #FF0000; 
+box-shadow: 0px 0px 16px 10px #FF0000;
+
+}
+
+.scifi__label{
+    display: block;
+    margin-top: 1rem;
+    color: rgb(255, 255, 255);
+    font-family: 'Patrick Hand', cursive;
+}
+
+

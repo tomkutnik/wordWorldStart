@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+
+
+.fantasyHeader{
+    margin: auto;
+    width: 100vw;
+    max-width: 62.5rem;
+    position: relative;
+}
+
+.fantasyHeader__pic{
+    width: 100vw;
+    max-width: 62.5rem;
+}
+
+.fantasyHeader__title{
+    position: absolute;
+    top: 5rem;
+    left: 5rem;
+    font-size: 5rem;
+    font-family: 'MedievalSharp', cursive;
+    color: rgb(177, 138, 80);
+    text-shadow: -1px -1px 0 rgb(54, 14, 14), 1px -1px 0 rgb(54, 14, 14), -1px 1px 0 rgb(54, 14, 14), 1px 1px 0 rgb(54, 14, 14);
+}
+
+@media screen and (max-width: 62.5rem ) {
+    .fantasyHeader__title{
+        top: 4rem;
+        left: 4rem;
+        font-size: 3rem;
+    }
+}

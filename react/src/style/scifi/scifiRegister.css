@@ -1,0 +1,10 @@
+.scifi__reg{
+    position: absolute;
+    top: 0;
+    left: 51%;
+    width: 49%;
+    background-color: #3ab9c7;
+    padding: 1rem 0 3rem 0;
+    height: 22rem;
+    text-align: center;
+}
