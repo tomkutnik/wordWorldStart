@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/wordWorldStart/static/css/main.35e57fb2.chunk.css",
+    "main.js": "/wordWorldStart/static/js/main.9d60a585.chunk.js",
+    "main.js.map": "/wordWorldStart/static/js/main.9d60a585.chunk.js.map",
+    "runtime-main.js": "/wordWorldStart/static/js/runtime-main.4fcb8f6b.js",
+    "runtime-main.js.map": "/wordWorldStart/static/js/runtime-main.4fcb8f6b.js.map",
+    "static/js/2.6f4e059b.chunk.js": "/wordWorldStart/static/js/2.6f4e059b.chunk.js",
+    "static/js/2.6f4e059b.chunk.js.map": "/wordWorldStart/static/js/2.6f4e059b.chunk.js.map",
+    "index.html": "/wordWorldStart/index.html",
+    "static/css/main.35e57fb2.chunk.css.map": "/wordWorldStart/static/css/main.35e57fb2.chunk.css.map",
+    "static/js/2.6f4e059b.chunk.js.LICENSE.txt": "/wordWorldStart/static/js/2.6f4e059b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fcb8f6b.js",
+    "static/js/2.6f4e059b.chunk.js",
+    "static/css/main.35e57fb2.chunk.css",
+    "static/js/main.9d60a585.chunk.js"
+  ]
+}
