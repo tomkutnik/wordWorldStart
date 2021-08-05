@@ -4,3 +4,5 @@ Projekt mający na celu sprawdzenie możliwości modularnych Reacta, tego jak da
 Wykorzystanie regexp w celu walidacji poszczególnych elementów wprowadzanych przez użytkownika.
 
 Preludiu do projektu Word World.
+
+Pliki w folderze react pozostawione do wglądu i oceny jakości kodu. 
